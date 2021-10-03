@@ -1,0 +1,85 @@
+
+{
+    "items":[
+        {
+            "id": "43f93d78-76f6-4313-8e51-d963610de3a3",
+            "name":"Cava Brut",
+            "brand":"Chic Barcelona",
+            "region":"Catalonia",
+            "price": 9.95,
+            "image": "wine1.png"
+        },
+        {
+            "id": "f82b40b2-0dee-4c11-9751-a2c50a9e830b",
+            "name":"Cava Brut",
+            "brand":"Conde de Caralt",
+            "region":"Catalonia",
+            "price": 10.95,
+            "image": "wine2.png"
+        },
+        {
+            "id": "c52c72fd-7766-4c26-a664-a5bc68ca0c4f",
+            "name":"Pinot Grigio Ziobaffa Sizilien IGT 2020",
+            "brand":"Castellani",
+            "region":"Sicilia",
+            "price": 14.95,
+            "image": "wine3.png"
+        },
+        {
+            "id": "c9993623-950c-457e-8105-3d54a20e0633",
+            "name":"Vinho Verde 2020",
+            "brand":"Atlantique",
+            "region":"Vinho Verde",
+            "price": 8.95,
+            "image": "wine4.png"
+        },
+        {
+            "id": "612b8284-1bbe-4225-bab9-a08021359c3f",
+            "name":"Anciano Reserva Tinto Lisboa 2018",
+            "brand":"Quinta do Conde",
+            "region":"Lisboa",
+            "price": 11.95,
+            "image": "wine5.png"
+        },
+        {
+            "id": "ecf13016-2ffc-4faf-a6a1-72108db44882",
+            "name":"Vache D’Automne IGP Côtes Catalanes 2019",
+            "brand":"Les Producteurs Réunis",
+            "region":"Languedoc-Roussillon - Côtes Catalanes",
+            "price": 14.95,
+            "image": "wine6.png"
+        },
+        {
+            "id": "7155e80c-d2f1-49db-abc9-b13426683255",
+            "name":"Rosé im Klee 2020",
+            "brand":"Jurtschitsch",
+            "region":"Lower Austria",
+            "price": 9.95,
+            "image": "wine7.png"
+        },
+        {
+            "id": "ff0e6e14-559b-465c-bdf3-b0aa4b1fc9c1",
+            "name":"Wiener Gemischter Satz Grinzing 2020",
+            "brand":"Wieninger",
+            "region":"Vienna",
+            "price": 14.95,
+            "image": "wine8.png"
+        },
+        {
+            "id": "d5d17faa-e5fd-45eb-9c4a-8747654ce7f0",
+            "name":"Wiener Gemischter Satz Grinzing 2019",
+            "brand":"Wieninger",
+            "region":"Vienna",
+            "price": 11.95,
+            "image": "wine9.png"
+        },
+        {
+            "id": "eb9dd017-ce58-4704-b156-ff186316c1ec",
+            "name":"Sauvignon Blanc Vom Opok Südsteiermark 2020",
+            "brand":"Erwin Sabathi",
+            "region":"Styria",
+            "price": 12.95,
+            "image": "wine10.png"
+        }
+    ]
+}

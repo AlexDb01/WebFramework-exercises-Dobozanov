@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    width: 720px;
+    margin-left: 243px;
+    margin-right: 30px;
+    margin-top: 25px;
+}

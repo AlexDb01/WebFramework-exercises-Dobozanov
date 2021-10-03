@@ -1,0 +1,17 @@
+.container{
+    width: 33.33%;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+.name{
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.articleImg img{
+    width: 7vw;
+    height: 50vh;
+}

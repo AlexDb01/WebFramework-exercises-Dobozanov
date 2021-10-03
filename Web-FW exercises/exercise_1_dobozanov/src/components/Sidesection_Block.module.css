@@ -1,0 +1,11 @@
+.container{
+    margin-bottom: 25px;
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 37px;
+    padding-bottom: 13px;
+    font-weight: bold;
+    border-bottom: 1px black solid;
+}

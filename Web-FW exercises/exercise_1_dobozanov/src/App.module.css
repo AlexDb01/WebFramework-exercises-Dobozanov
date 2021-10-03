@@ -1,0 +1,9 @@
+.mainContent{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+body{
+    background-color: #e9eaed;
+}
